@@ -1,9 +1,6 @@
-# Flutter Social (Heart String) - A UI for a Social Media App 
+# Modern Social App 
 
 A Flutter UI implementation of a social media application
-
-
-Star this repo if you like what you see.
 
 ## 📸 Screenshots
 
@@ -15,10 +12,6 @@ Star this repo if you like what you see.
 
 <img src="screenshots/7.png" width="250"/> <img src="screenshots/8.png" width="250"/> <img src="screenshots/9.png" width="250"/> <img src="screenshots/10.png" width="250"/>
 
-
-## Author(s)
-**Emmanuel Fache**
-
 ## Getting Started
 
 **Note**: Make sure your Flutter environment is setup.
@@ -26,8 +19,8 @@ Star this repo if you like what you see.
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/emrade/flutter-social.git flutter_social
-    $ cd flutter_social/
+    $ git clone https://github.com/blixor/social-app.git
+    $ cd social-app/
     $ flutter packages get
     $ flutter run
 
